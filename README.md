@@ -1,16 +1,12 @@
-# foodjapan
+# Food and Beverages
 
-A new Flutter project.
+Code for screen created with Flutter.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/6913576-Papricon-Premium-Icons-from-Paperpillar/attachments
 
-This project is a starting point for a Flutter application.
+How do I code this ? - https://youtu.be/CgBX9IKdkKM
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20190807-041224](https://user-images.githubusercontent.com/8137504/62642735-039d0100-b964-11e9-9402-eeefdbc2e386.png)
+![Screenshot_20190807-041242](https://user-images.githubusercontent.com/8137504/62642738-04359780-b964-11e9-9781-aae6293aa7d6.png)
